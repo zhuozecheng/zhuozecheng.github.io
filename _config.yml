@@ -2,16 +2,16 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: http://zzc.life
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 城之迹
+subtitle: "公众号：城之迹"
+description: "路漫漫其修远兮，吾将上下而求索。"
+keywords: zzc, zhuozecheng, zecheng, 程序员
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: mzlogin/mzlogin.github.io
+repository: zhuozecheng/zhuozecheng.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -33,12 +33,12 @@ compress_html:
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Zhuo Zecheng
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: zhuozecheng
+location: Shenzhen, China
+email: zhuozch@163.com
 
 # ---------------- #
 #    Navigation    #
@@ -61,12 +61,12 @@ navs:
 #     label: 开源
 
   -
-    href: /wiki/
-    label: 维基
+    href: /tech/
+    label: 技术
 
   -
-    href: /links/
-    label: 链接
+    href: /invest/
+    label: 投资
 
   -
     href: /about/
@@ -98,10 +98,10 @@ plugins:
     - jekyll-feed
     - jemoji
 #     - jekyll-mentions
-collections:
-    wiki:
-        output: true
-        permalink: /wiki/:path/
+#collections:
+#    wiki:
+#        output: true
+#        permalink: /wiki/:path/
 
 # ---------------- #
 #      Comments    #
@@ -115,14 +115,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: zhuozecheng
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: zhuozecheng
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
