@@ -1,6 +1,6 @@
-# 码志
+# 城之迹
 
-我的个人博客：<https://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<http://zzc.life>，欢迎交流。
 
 ## 概览
 
