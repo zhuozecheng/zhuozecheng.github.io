@@ -4,7 +4,7 @@
 
 ## 联系我
 
-有任何建议，可以通过 [微信公众号「城之迹」与我取得联系。
+有任何建议，可以通过 [微信公众号「埋头过坎」与我取得联系。
 
 <img width="192px" height="192px" src="http://zzc.life/assets/images/qrcode.jpg"/>
 
